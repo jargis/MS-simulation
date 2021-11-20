@@ -970,7 +970,7 @@ public class FinalSim {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        for (int i = 1; i <= 15; i++) {
+        for (int i = 1; i <= 30; i++) {
             St s = new St(i);
             //St s = new St(1);
         }
